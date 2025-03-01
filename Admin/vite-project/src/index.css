@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active {
+    background-color: blue;
+    color: white;
+
+}
+
+select,
+input,
+textarea {
+    border: 1px solid blueviolet;
+    outline-color: white;
+    border-radius: 4px;
+}
