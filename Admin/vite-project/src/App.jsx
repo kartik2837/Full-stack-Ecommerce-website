@@ -10,7 +10,7 @@ import Orders from './pages/Orders';
 import Login from './Component/Login';
 import { ToastContainer } from 'react-toastify';
 
-export const backendUrl = 'https://full-stack-ecommerce-website-back.vercel.app'
+export const backendUrl = 'https://full-stack-ecommerce-website-backend.vercel.app'
 console.log(backendUrl);
 export const currency = '₹'
 
