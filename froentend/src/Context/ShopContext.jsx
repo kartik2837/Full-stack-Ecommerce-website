@@ -7,7 +7,7 @@ export const ShopContext = createContext();
 const ShopContextProvider = (props) => {
     const currency = '₹';
     const delivery_fee = 100;
-    const backendUrl = https://full-stack-ecommerce-website-back.vercel.app
+    const backendUrl ='https://full-stack-ecommerce-website-back.vercel.app'
 
     const [search, setSearch] = useState('')
     const [showSearch, setShowSearch] = useState(false)
